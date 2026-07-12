@@ -2,12 +2,12 @@ owner: smartsamagency
 repo: upptime
 
 siteConfigs:
-  - name: "SMART SAM - #1 Agence Freelance en Algérie"
+  - name: "SMART SAM Agency"
     url: "https://smartsam.agency"
 
 status-website:
   cname: status.smartsam.agency
-  name: État du serveur SMART SAM
-  introTitle: "**SMART SAM** - Surveillance de l'état du système"
-  introMessage: Nous surveillons nos systèmes 24h/24 et 7j/7 afin de garantir le meilleur service à nos clients.
+  name: Etat du serveur SMART SAM
+  introTitle: "Surveillance du systeme"
+  introMessage: Nous surveillons nos systemes 24h/24.
   theme: light
