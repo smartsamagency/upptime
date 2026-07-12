@@ -1,7 +1,7 @@
 owner: smartsamagency
 repo: upptime
 
-siteConfigs:
+sites:
   - name: "SMART SAM Agency"
     url: "https://smartsam.agency"
 
