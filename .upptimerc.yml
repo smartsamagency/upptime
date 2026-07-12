@@ -1,10 +1,10 @@
 owner: smartsamagency
-repo: upptime 
+repo: upptime
 
 siteConfigs:
-  - name: "SMART SAM – #1 Agence Freelance en Algérie"
+  - name: "SMART SAM - #1 Agence Freelance en Algérie"
     url: "https://smartsam.agency"
-    
+
 status-website:
   cname: status.smartsam.agency
   name: État du serveur SMART SAM
