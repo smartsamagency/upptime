@@ -4,17 +4,17 @@
     "url": "https://smartsam.agency",
     "icon": "https://icons.duckduckgo.com/ip3/smartsam.agency.ico",
     "slug": "smart-sam-agency",
-    "status": "down",
-    "uptime": "85.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.10%",
-    "uptimeMonth": "85.02%",
-    "uptimeYear": "85.02%",
-    "time": 1186,
-    "timeDay": 557,
-    "timeWeek": 1220,
-    "timeMonth": 1186,
-    "timeYear": 1186,
+    "status": "up",
+    "uptime": "84.72%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "82.59%",
+    "uptimeMonth": "84.72%",
+    "uptimeYear": "84.72%",
+    "time": 1190,
+    "timeDay": 963,
+    "timeWeek": 1208,
+    "timeMonth": 1190,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2026-07-13": 125,
       "2026-07-14": 300,
@@ -25,7 +25,8 @@
       "2026-07-19": 397,
       "2026-07-20": 675,
       "2026-07-21": 212,
-      "2026-07-23": 198
+      "2026-07-23": 198,
+      "2026-07-25": 61
     }
   }
 ]
